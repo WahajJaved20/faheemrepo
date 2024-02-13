@@ -13,11 +13,11 @@
 
 1. Open Virtual Box.
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 2. Click on New, then name the VM and add the path.
 
-<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 3. Assign Suitable memory and number of processors.
 4. Assign Hardware Memory of at least 25GB so the Server functions smoothly and click finish.

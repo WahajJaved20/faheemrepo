@@ -6,5 +6,7 @@
 
 ## Graylog Installation
 
-* [Graylog Pre-Requisites](graylog-installation/graylog-pre-requisites/README.md)
-  * [MongoDB Setup](graylog-installation/graylog-pre-requisites/mongodb-setup.md)
+* [GrayLog Docker Based Setup](graylog-installation/graylog-docker-based-setup.md)
+* [Connecting to the Web Interface](graylog-installation/connecting-to-the-web-interface.md)
+* [Graylog Local Setup](graylog-installation/graylog-local-setup/README.md)
+  * [Local MongoDB Setup (Will be added later)](graylog-installation/graylog-local-setup/local-mongodb-setup-will-be-added-later.md)

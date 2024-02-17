@@ -1,4 +1,4 @@
-# MongoDB Setup
+# Local MongoDB Setup (Will be added later)
 
 Incase if we need to add proxies in the future we can use this command
 
@@ -58,7 +58,7 @@ ii) Verify that THP has successfully been set to `[never]` by running the follow
 cat /sys/kernel/mm/transparent_hugepage/enabled
 ```
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 4\) Configure the OS to run it on boot
 

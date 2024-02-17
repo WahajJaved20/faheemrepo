@@ -1,4 +1,4 @@
-# Graylog Pre-Requisites
+# Graylog Local Setup
 
 [GrayLog Documentation](https://go2docs.graylog.org/5-2/home.htm)
 
@@ -12,7 +12,7 @@ For a smooth installation, it is mentioned as a pre-requisite to disable the fir
 sudo ufw disable
 ```
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
 ## Server Timezone
 

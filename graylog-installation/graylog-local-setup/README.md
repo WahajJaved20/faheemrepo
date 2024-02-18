@@ -31,3 +31,10 @@ cat /etc/lsb-release
 ```
 
 <figure><img src="../../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
+
+## Update the system
+
+```bash
+sudo apt-get update
+```
+

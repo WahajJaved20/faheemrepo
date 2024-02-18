@@ -13,22 +13,22 @@
 
 1. &#x20;Open Virtual Box
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 2. Click on New, and enter the path to the ISO File and give it a name.
 
-<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 3. Configure your username and password
 
-<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 4. Configure Hardware and Storage Requirements and Finish.
 5. Power on the VM.
 6. If asked to mount the bootable medium, simply give the path to ISO file again.
 7. Then Click, Install CentOS
 
-<figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 8. After the Installer has compelted the pre-requisites, select the language
 

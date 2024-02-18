@@ -7,7 +7,8 @@
 
 ## Graylog Installation
 
-* [Pre-Requisites](graylog-installation/pre-requisites.md)
-* [Setting up Putty](graylog-installation/setting-up-putty.md)
-* [Local MongoDB Setup (Will be added later)](graylog-installation/local-mongodb-setup-will-be-added-later.md)
-* [Graylog Setup](graylog-installation/graylog-setup.md)
+* [Background Phase](graylog-installation/background-phase.md)
+* [Setting up Putty](graylog-installation/graylog-local-setup/setting-up-putty.md)
+* [Disabling Transparent Huge Pages (THP)](graylog-installation/disabling-transparent-huge-pages-thp.md)
+* [Graylog Setup](graylog-installation/graylog-local-setup/graylog-setup.md)
+* [Accessing the Graylog Web interface](graylog-installation/accessing-the-graylog-web-interface.md)

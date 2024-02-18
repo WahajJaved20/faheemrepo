@@ -1,4 +1,8 @@
-# Local MongoDB Setup (Will be added later)
+---
+description: A Recommended Step for MongoDB Setup
+---
+
+# Disabling Transparent Huge Pages (THP)
 
 Incase if we need to add proxies in the future we can use this command
 
@@ -6,7 +10,7 @@ Incase if we need to add proxies in the future we can use this command
 wget -qO- 'http://keyserver.ubuntu.com/pks/lookup?op=get&search=0xf5679a222c647c87527c2f8cb00a0bd1e2c63c11' | sudo apt-key add -
 ```
 
-## Disable Transparent Huge Pages (THP)
+
 
 Transparent Huge Pages (THP) is a Linux memory management system that reduces the overhead of Translation Lookaside Buffer (TLB) lookups on machines with large amounts of memory by using larger memory pages.
 
@@ -58,7 +62,7 @@ ii) Verify that THP has successfully been set to `[never]` by running the follow
 cat /sys/kernel/mm/transparent_hugepage/enabled
 ```
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 4\) Configure the OS to run it on boot
 
@@ -66,38 +70,3 @@ cat /sys/kernel/mm/transparent_hugepage/enabled
 sudo systemctl enable disable-transparent-huge-pages
 ```
 
-## Installation
-
-### Importing the Public Key for Package Management System
-
-1\) Installing Relevant Packages
-
-```bash
-sudo apt-get install gnupg curl
-```
-
-2\) Retrieving the Key
-
-```bash
-curl -fsSL https://www.mongodb.org/static/pgp/server-7.0.asc | \
-   sudo gpg -o /usr/share/keyrings/mongodb-server-7.0.gpg \
-   --dearmor
-```
-
-#### Creating a List file for mongoDB
-
-```bash
-echo "deb [ arch=amd64,arm64 signed-by=/usr/share/keyrings/mongodb-server-7.0.gpg ] https://repo.mongodb.org/apt/ubuntu jammy/mongodb-org/7.0 multiverse" | sudo tee /etc/apt/sources.list.d/mongodb-org-7.0.list
-```
-
-#### Reload Package Database
-
-```bash
-sudo apt-get update
-```
-
-#### Finally install the MongoDB Package
-
-```bash
-sudo apt-get install -y mongodb-org
-```

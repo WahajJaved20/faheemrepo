@@ -1,6 +1,10 @@
-# Pre-Requisites
+---
+description: Complete Setup guide for back end systems :D
+---
 
-[GrayLog Documentation](https://go2docs.graylog.org/5-0/downloading\_and\_installing\_graylog/ubuntu\_installation.html) (choose the option with Ubuntu 20.04)
+# Background Phase
+
+[GrayLog Documentation](https://go2docs.graylog.org/5-0/downloading\_and\_installing\_graylog/ubuntu\_installation.html)&#x20;
 
 ## Disabling the Firewall
 

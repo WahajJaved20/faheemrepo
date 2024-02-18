@@ -1,8 +1,6 @@
-# Graylog Local Setup
+# Pre-Requisites
 
-[GrayLog Documentation](https://go2docs.graylog.org/5-2/home.htm)
-
-
+[GrayLog Documentation](https://go2docs.graylog.org/5-0/downloading\_and\_installing\_graylog/ubuntu\_installation.html) (choose the option with Ubuntu 20.04)
 
 ## Disabling the Firewall
 
@@ -12,7 +10,7 @@ For a smooth installation, it is mentioned as a pre-requisite to disable the fir
 sudo ufw disable
 ```
 
-<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
 ## Server Timezone
 
@@ -30,7 +28,7 @@ This will be useful later on while selecting specific configurations
 cat /etc/lsb-release
 ```
 
-<figure><img src="../../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
 
 ## Update the system
 

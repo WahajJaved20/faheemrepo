@@ -3,7 +3,6 @@
 * [Security Organization and Administration](README.md)
 * [Table of Contents](table-of-contents.md)
 * [Setting up Ubuntu Server](setting-up-ubuntu-server.md)
-* [Setting up CentOS](setting-up-centos.md)
 
 ## Graylog Installation
 

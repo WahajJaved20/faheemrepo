@@ -50,3 +50,7 @@ ANDDDD VOILA!!!!
 THE WEB INTERFACE IS ACCESSIBLE TO YOUR HOST MACHINE.
 
 The credentials should be \<admin>:\<the password whose SHA256 you generated>
+
+After entering the credentials, WE ARE IN.
+
+<figure><img src="../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>

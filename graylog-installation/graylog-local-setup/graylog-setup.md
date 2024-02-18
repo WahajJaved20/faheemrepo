@@ -168,6 +168,8 @@ sudo nano /etc/graylog/server/server.conf
 # Add the pwgen result in password secret and sha256 in root password
 ```
 
+<figure><img src="../../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
+
 Enable graylog service
 
 ```bash

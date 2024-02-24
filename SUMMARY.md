@@ -15,3 +15,11 @@
 ## Course Notes
 
 * [Introduction](course-notes/introduction.md)
+* [Security Operations Center](course-notes/security-operations-center/README.md)
+  * [SOC Models](course-notes/security-operations-center/soc-models.md)
+  * [SOC Team Roles](course-notes/security-operations-center/soc-team-roles/README.md)
+    * [SOC Analysts](course-notes/security-operations-center/soc-team-roles/soc-analysts.md)
+    * [Incident Responders](course-notes/security-operations-center/soc-team-roles/incident-responders.md)
+    * [Threat Hunters](course-notes/security-operations-center/soc-team-roles/threat-hunters.md)
+    * [Vulnerability Analyst](course-notes/security-operations-center/soc-team-roles/vulnerability-analyst.md)
+  * [SOC Capability Maturity Models](course-notes/security-operations-center/soc-capability-maturity-models.md)

@@ -11,3 +11,7 @@
 * [Disabling Transparent Huge Pages (THP)](graylog-installation/graylog-local-setup/local-mongodb-setup-will-be-added-later.md)
 * [Graylog Setup](graylog-installation/graylog-local-setup/graylog-setup.md)
 * [Accessing the Graylog Web interface](graylog-installation/accessing-the-graylog-web-interface.md)
+
+## Course Notes
+
+* [Introduction](course-notes/introduction.md)

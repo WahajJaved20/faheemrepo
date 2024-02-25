@@ -28,3 +28,4 @@
   * [Security Orchestration, Automation and Response (SOAR)](course-notes/security-information-and-event-management-siem/security-orchestration-automation-and-response-soar.md)
 * [PimpMyKali](course-notes/pimpmykali.md)
 * [Terminal Multiplexer (TMUX)](course-notes/terminal-multiplexer-tmux.md)
+* [Active Directory (AD)](course-notes/active-directory-ad.md)

@@ -6,7 +6,7 @@ Example: MISP + Splunk + Qradar
 
 ## How does XDR Work?
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 1) Data Analysis:
 
@@ -32,7 +32,7 @@ Subsequently, it updates security policies to ensure that a similar incident doe
 
 ## Key Components:
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 1) Integration with Everything
 
@@ -48,3 +48,14 @@ With AI techniques, mathematical calculations are made on the fly to assess the 
 
 ### 4) Deep Analytics
 
+A successful XDR deployment can distinguish between actual threats and false positives without letting the real attacks escape. This can enable the XDR to deliver deep threat detection and consequently generate an appropriate threat response.
+
+### 5) Inexpensive & extensible data layer
+
+Traditional SIEM storages are expensive as they are primarily built on outdated architectures. This is because the system finds it difficult to segregate near-term data necessary for threat detection and older historical data that aids in standardizing past threat trends.
+
+An effective XDR can differentiate between the two data sources and, at the same time, employ low-cost methods to retain historical data records.
+
+### 6) Flexible Deployment
+
+An XDR solution supports flexible deployments. It may be an on-premise and cloud-based implementation or managed deployments where organizations lack the requisite resources to manage them independently.

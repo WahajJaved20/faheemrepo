@@ -29,3 +29,4 @@
 * [PimpMyKali](course-notes/pimpmykali.md)
 * [Terminal Multiplexer (TMUX)](course-notes/terminal-multiplexer-tmux.md)
 * [Active Directory (AD)](course-notes/active-directory-ad.md)
+* [Regular Expressions](course-notes/regular-expressions.md)

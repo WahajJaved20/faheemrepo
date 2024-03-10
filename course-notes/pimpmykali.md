@@ -22,6 +22,6 @@ cd pimpmykali
 sudo ./pimpmykali.sh
 ```
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Since, we have a new VM, press N to set it up.

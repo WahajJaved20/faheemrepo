@@ -17,4 +17,6 @@ This is the page.
 <figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
 5. Click on Data Summary.
-6.
+6. And thats it. Its working
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>

@@ -26,7 +26,7 @@ description: Set this up on VM
 6. Wait for the Installer to Finish.
 7. Then Go to `C:\Program Files\SplunkUniversalForwarder\etc\apps`
 8. Paste the `Splunk_TA_Windows` File from the tar zip file.
-9. Now go to `C:\Program Files\SplunkUniversalForwarder\etc\apps\Splunk_TA_windows\default` and copy the file `inputs.conf` and paste it somewhere outside`.`
+9. Now go to `C:\Program Files\SplunkUniversalForwarder\etc\apps\Splunk_TA_windows\local\` and copy the file `inputs.conf` and paste it somewhere outside`.`
 10. Open the file with notepad
 11. We need three types of logs, System, Security and Application, so we will set their disabled value to 0 and renderXml to false.
 

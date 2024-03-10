@@ -6,7 +6,7 @@ Example: MISP + Splunk + Qradar
 
 ## How does XDR Work?
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 1) Data Analysis:
 
@@ -32,7 +32,7 @@ Subsequently, it updates security policies to ensure that a similar incident doe
 
 ## Key Components:
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 1) Integration with Everything
 

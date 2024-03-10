@@ -110,7 +110,7 @@ By combining the GROK + oniguruma versions we make the following pattern:
 
 Finally, testing this with GROK debugger:
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
 
 The output:
 

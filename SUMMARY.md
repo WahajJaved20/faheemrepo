@@ -12,6 +12,14 @@
 * [Graylog Setup](graylog-installation/graylog-local-setup/graylog-setup.md)
 * [Accessing the Graylog Web interface](graylog-installation/accessing-the-graylog-web-interface.md)
 
+## SPLUNK INSTALLATION
+
+* [Pre-Requisites](splunk-installation/pre-requisites.md)
+* [Splunk Base Installation on Host](splunk-installation/splunk-base-installation-on-host.md)
+* [Splunk Windows Add-on](splunk-installation/splunk-windows-add-on.md)
+* [Splunk Forwarder](splunk-installation/splunk-forwarder.md)
+* [Integration of components](splunk-installation/integration-of-components.md)
+
 ## Course Notes
 
 * [Introduction](course-notes/introduction.md)

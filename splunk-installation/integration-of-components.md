@@ -28,3 +28,13 @@ The 3 data sources we enabled:
 Example Log:
 
 <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+## Maintaining IP Address Connections
+
+Since our IP address changes every 24 hours, what we can do is firstly note our server IP address
+
+then go the directory `C:\Program Files\SplunkUniversalForwarder\etc\System\local`
+
+and then update the server IP in the `outputs.conf` and `deploymentclient.conf` files.
+
+Finally, restart Splunk Forwarder.

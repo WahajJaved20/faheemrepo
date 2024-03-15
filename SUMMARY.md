@@ -19,6 +19,7 @@
 * [Splunk Windows Add-on](splunk-installation/splunk-windows-add-on.md)
 * [Splunk Forwarder](splunk-installation/splunk-forwarder.md)
 * [Integration of components](splunk-installation/integration-of-components.md)
+* [Splunk Extractor](splunk-installation/splunk-extractor.md)
 
 ## Course Notes
 

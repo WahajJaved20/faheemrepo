@@ -50,3 +50,4 @@
 * [Grok Patterns](course-notes/grok-patterns.md)
 * [Vulnerability Assessment](course-notes/vulnerability-assessment.md)
 * [Penetration Testing](course-notes/penetration-testing.md)
+* [Cross Site Scripting](course-notes/cross-site-scripting.md)

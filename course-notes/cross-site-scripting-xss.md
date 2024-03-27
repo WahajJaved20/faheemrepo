@@ -1,4 +1,4 @@
-# Cross Site Scripting
+# Cross Site Scripting (XSS)
 
 Cross-site scripting occurs when an attacker injects malicious scripts into a web application, which then gets executed by the user's browser.
 

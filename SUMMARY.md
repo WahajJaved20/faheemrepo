@@ -48,3 +48,4 @@
 * [Microsoft Sentinel](course-notes/microsoft-sentinel.md)
 * [Regular Expressions](course-notes/regular-expressions.md)
 * [Grok Patterns](course-notes/grok-patterns.md)
+* [Vulnerability Assessment](course-notes/vulnerability-assessment.md)

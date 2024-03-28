@@ -2,7 +2,7 @@
 
 Cross-Site Request Forgery (CSRF) is an attack where a malicious website tricks a user's browser into making an unintended request to a different site where the user is authenticated. This can lead to unauthorized actions being performed on behalf of the user without their knowledge or consent.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 ## Example:
 
@@ -37,9 +37,9 @@ echo "Form submitted successfully!";
 
 ## Another example:
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 

@@ -23,7 +23,7 @@ Press Ctrl+W to search for the keyword "http\_bind\_address"
 
 Uncomment the statement and assign it (0.0.0.0)
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Finally, save it.
 

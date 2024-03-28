@@ -2,7 +2,7 @@
 
 A framework designed to improve the efficiency and effectiveness of security operations. It involves the integration of security tools, automation of repetitive tasks, and orchestration of incident response processes.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Incident Handling with SOAR
 

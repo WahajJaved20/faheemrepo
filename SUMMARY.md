@@ -54,3 +54,4 @@
 * [Cross Site Request Forgery (CSRF)](course-notes/cross-site-request-forgery-csrf.md)
 * [Vulnerability Assessment and Penetration Testing (VAPT) Concepts](course-notes/vulnerability-assessment-and-penetration-testing-vapt-concepts.md)
 * [Sonarqube VA](course-notes/sonarqube-va.md)
+* [Snyk.io](course-notes/snyk.io.md)

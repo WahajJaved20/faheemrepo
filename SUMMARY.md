@@ -55,3 +55,7 @@
 * [Vulnerability Assessment and Penetration Testing (VAPT) Concepts](course-notes/vulnerability-assessment-and-penetration-testing-vapt-concepts.md)
 * [Sonarqube VA](course-notes/sonarqube-va.md)
 * [Snyk.io](course-notes/snyk.io.md)
+* [Incident Response](course-notes/incident-response/README.md)
+  * [Key Components of IR](course-notes/incident-response/key-components-of-ir.md)
+  * [Why IR?](course-notes/incident-response/why-ir.md)
+  * [IR Life Cycle](course-notes/incident-response/ir-life-cycle.md)

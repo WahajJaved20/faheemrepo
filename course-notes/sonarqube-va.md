@@ -6,7 +6,7 @@ It provides a comprehensive set of tools for static code analysis, identifying a
 
 ## Objectives:
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Key Features:
 

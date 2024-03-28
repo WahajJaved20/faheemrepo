@@ -52,3 +52,4 @@
 * [Penetration Testing](course-notes/penetration-testing.md)
 * [Cross Site Scripting (XSS)](course-notes/cross-site-scripting-xss.md)
 * [Cross Site Request Forgery (CSRF)](course-notes/cross-site-request-forgery-csrf.md)
+* [Vulnerability Assessment and Penetration Testing (VAPT) Concepts](course-notes/vulnerability-assessment-and-penetration-testing-vapt-concepts.md)
